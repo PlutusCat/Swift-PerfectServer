@@ -3,8 +3,8 @@
 这里是文章里提到的 Demo 仓库
 
 # Demo 统一安装运行方式
-`$ git clone https://github.com/PlutusCat/Swift-PerfectServer.git`
-`$ cd /Users/gxd/Desktop/Swift-PerfectServer/Demo01`
+`$ git clone https://github.com/PlutusCat/Swift-PerfectServer.git`  
+`$ cd /Users/gxd/Desktop/Swift-PerfectServer/Demo01`  
 `$ swift build`
 
 
